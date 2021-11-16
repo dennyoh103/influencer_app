@@ -1,0 +1,48 @@
+.campaign_box{
+    width: 375px;
+    top: 375px;
+}
+
+.container{
+    display: inline-block;
+    width: 375px;
+    height: 101px; 
+    box-shadow: 0px 1px 0px #E0EEF2;
+    background-color: white;  
+}
+
+.campaign_icon{
+    border-radius: 18px;
+    margin-left: 18px;
+    margin-top: 18px;
+    width: 65px;
+    height: 65px;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    vertical-align: middle;
+    margin: 10px;
+}
+
+.right > p {
+    display: inline-block;
+    margin-left: 14px;
+    font-family: sans-serif;
+}
+
+.campaign_name{
+    margin: 15px 0px 0px;
+    width: 178px;
+}
+
+
+.campaign_pay{
+    width: 169px;
+    height: 18px;
+    color: #009330;
+    margin: 0px;
+}

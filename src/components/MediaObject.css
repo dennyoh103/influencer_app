@@ -1,0 +1,33 @@
+.video{
+    width: 101px;
+    height: 179px;
+}
+
+.video_thumbnail{
+    width: 101px;
+    height: 179px;
+    border-radius: 6px;
+}
+
+.button{
+    margin: 5px 2px;
+}
+
+Button{
+    width: 49px;
+    height: 47px;
+    border: 1px solid #E0EEF2;
+    background: #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+
+
+
+.playButton{
+    color: white;
+    top: -85px;
+    position: relative;
+    left: -57px;
+    border-radius: 1.5px;
+}
