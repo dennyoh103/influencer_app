@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io.influencer_app/static/css/main.ecc3ffd2.chunk.css",
-    "main.js": "/github.io.influencer_app/static/js/main.1b991f5f.chunk.js",
-    "main.js.map": "/github.io.influencer_app/static/js/main.1b991f5f.chunk.js.map",
-    "runtime~main.js": "/github.io.influencer_app/static/js/runtime~main.32f9af6b.js",
-    "runtime~main.js.map": "/github.io.influencer_app/static/js/runtime~main.32f9af6b.js.map",
-    "static/js/2.3150ee0f.chunk.js": "/github.io.influencer_app/static/js/2.3150ee0f.chunk.js",
-    "static/js/2.3150ee0f.chunk.js.map": "/github.io.influencer_app/static/js/2.3150ee0f.chunk.js.map",
-    "index.html": "/github.io.influencer_app/index.html",
-    "precache-manifest.34b660f2fb2fc94c34c25266f5342083.js": "/github.io.influencer_app/precache-manifest.34b660f2fb2fc94c34c25266f5342083.js",
-    "service-worker.js": "/github.io.influencer_app/service-worker.js",
-    "static/css/main.ecc3ffd2.chunk.css.map": "/github.io.influencer_app/static/css/main.ecc3ffd2.chunk.css.map"
+    "main.css": "/influencer_app/static/css/main.ecc3ffd2.chunk.css",
+    "main.js": "/influencer_app/static/js/main.ea6c175b.chunk.js",
+    "main.js.map": "/influencer_app/static/js/main.ea6c175b.chunk.js.map",
+    "runtime~main.js": "/influencer_app/static/js/runtime~main.ac98c50f.js",
+    "runtime~main.js.map": "/influencer_app/static/js/runtime~main.ac98c50f.js.map",
+    "static/js/2.3150ee0f.chunk.js": "/influencer_app/static/js/2.3150ee0f.chunk.js",
+    "static/js/2.3150ee0f.chunk.js.map": "/influencer_app/static/js/2.3150ee0f.chunk.js.map",
+    "index.html": "/influencer_app/index.html",
+    "precache-manifest.5ed050969059419fb6eb2f8935c1f11d.js": "/influencer_app/precache-manifest.5ed050969059419fb6eb2f8935c1f11d.js",
+    "service-worker.js": "/influencer_app/service-worker.js",
+    "static/css/main.ecc3ffd2.chunk.css.map": "/influencer_app/static/css/main.ecc3ffd2.chunk.css.map"
   }
 }
